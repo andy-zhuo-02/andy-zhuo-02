@@ -24,7 +24,7 @@
 ## 📰 News
 - [Aug 2025] Release <b>repository</b> <i><u>XTDrone2</u></i>: A comprehensive ROS2 toolbox for XTDrone robot, providing SLAM and navigation capabilities for autonomous operation. [[github]](https://github.com/andy-zhuo-02/XTDrone2)
 - [June 2025] Release <b>repository</b> <i><u>go2_ros2_toolbox</u></i>: A comprehensive ROS2 toolbox for Unitree Go2 EDU robot, providing SLAM and navigation capabilities for autonomous operation. [[github]](https://github.com/andy-zhuo-02/go2_ros2_toolbox)
-- [25 Mar 2025] <b>PrePrint</b> <i><u>Curvature-Constrained Vector Field for Motion Planning of Nonholonomic Robots</u></i>, Yike Qiao, Xiaodong He, <b>An Zhuo</b>, Zhiyong Sun, Weimin Bao, Zhongkui Li [[arxiv]](https://arxiv.org/abs/2504.02852)
+- [Mar 2025] <b>PrePrint</b> <i><u>Curvature-Constrained Vector Field for Motion Planning of Nonholonomic Robots</u></i>, Yike Qiao, Xiaodong He, <b>An Zhuo</b>, Zhiyong Sun, Weimin Bao, Zhongkui Li [[arxiv]](https://arxiv.org/abs/2504.02852)
 - [Spring Semester 2025] <b>Teaching Assistant</b> for <i><u>Engineering Innovation</u></i> course at Peking University [[INFO]](https://andy-zhuo-02.github.io/teaching/2025-Engineering_Innovation)
 
 
