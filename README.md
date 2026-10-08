@@ -44,9 +44,9 @@ Yike Qiao, Xiaodong He, **An Zhuo**, Zhiyong Sun, Weimin Bao, Zhongkui Li
 
 | Project | Role & contribution | Links |
 | --- | --- | --- |
-| **XTDrone** | Lead Developer and Community Maintainer. Led version upgrades and plugin development, integrated new UAV features, and maintained documentation and the community. | [GitHub](https://github.com/robin-shaun/XTDrone) · [Project page](https://andy-zhuo-02.github.io/portfolio/2024-xtdrone) |
+| **XTDrone** | Lead Developer and Community Maintainer. Led version upgrades and plugin development, integrated new UAV features, and maintained documentation and the community. | [GitHub](https://github.com/robin-shaun/XTDrone) · |
 | **XTDrone2** | UAV simulation platform based on PX4, ROS 2, and Gazebo Ignition. | [GitHub](https://github.com/andy-zhuo-02/XTDrone2) |
-| **Go2 ROS2 Toolbox** | Developer. Integrated SLAM Toolbox and Navigation2, with LiDAR point cloud processing and camera support for the Unitree Go2 EDU. | [GitHub](https://github.com/andy-zhuo-02/go2_ros2_toolbox) · [Project page](https://andy-zhuo-02.github.io/portfolio/2025-go2-ros2-toolbox) · [Demo](https://www.bilibili.com/video/BV1ioN9zrEpf) |
+| **Go2 ROS2 Toolbox** | Developer. Integrated SLAM Toolbox and Navigation2, with LiDAR point cloud processing and camera support for the Unitree Go2 EDU. | [GitHub](https://github.com/andy-zhuo-02/go2_ros2_toolbox) · [Demo video](https://www.bilibili.com/video/BV1ioN9zrEpf) |
 
 ## 🎓 Teaching
 
