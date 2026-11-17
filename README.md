@@ -19,6 +19,7 @@ I study task planning and control of multi-agent systems at the **School of Adva
 
 ## 📰 Recent News
 
+- **Nov 2026** — New preprint: *DIVAL: Diffeomorphic Vector-Field Alignment for Nonholonomic Motion Planning*. [arXiv](https://arxiv.org/abs/2611.14918)
 - **May 2026** — New preprint: *Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios*. [arXiv](https://arxiv.org/abs/2605.07877)
 - **Nov 2025** — Our paper on curvature-constrained motion planning was accepted by **IEEE Transactions on Robotics**. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11300826) · [arXiv](https://arxiv.org/abs/2504.02852)
 - **Aug 2025** — Released **XTDrone2**, a UAV simulation platform based on PX4, ROS 2, and Gazebo Ignition. [GitHub](https://github.com/andy-zhuo-02/XTDrone2)
